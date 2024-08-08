@@ -1,4 +1,5 @@
-<h1>Hi, I'm NewK1ng</h1>
+# <div align="center">Hi, I'm NewK1ng 🐒</div>  
+  
 <p>Java back-end developer from Kyiv, UA</p>
 ### Tech Stack  
 <div align="center">  
