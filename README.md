@@ -1,6 +1,6 @@
 # <div align="center">Hi, I'm NewK1ng 🐒</div>  
   
-<h3>Java back-end developer from Kyiv, UA</h3>
+<h4>Java back-end developer from Kyiv, UA</h4>
 
 ### Tech Stack  
 
