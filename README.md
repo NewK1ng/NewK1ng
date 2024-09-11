@@ -2,7 +2,7 @@
 
 <div align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=newk1ng&theme=github_dark_blue&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newk1ng&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newk1ng&theme=github_dark&hide_border=true&hide=html,css,dockerfile">
 </div>
 
 <h1 align="center"></h1>
